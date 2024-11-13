@@ -1,0 +1,11 @@
+Model Information:
+* title:	Playstation 3 - Sackboy
+* source:	https://sketchfab.com/3d-models/playstation-3-sackboy-ddb62dd8728c4bcc80d17555c5eefecd
+* author:	Lanair6 (https://sketchfab.com/Lanair6Offical69LBP)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Playstation 3 - Sackboy" (https://sketchfab.com/3d-models/playstation-3-sackboy-ddb62dd8728c4bcc80d17555c5eefecd) by Lanair6 (https://sketchfab.com/Lanair6Offical69LBP) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
