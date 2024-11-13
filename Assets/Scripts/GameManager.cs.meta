@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c7ea966255877e148a449a64464053c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {fileID: 1729855248361696032, guid: 85169d1afe2942a4ab058d661bfa24c7,
+      type: 3}
+  - timerText: {instanceID: 0}
+  - winPanel: {instanceID: 0}
+  - retryPanel: {instanceID: 0}
+  - requiredColorSphere: {fileID: 2473470586021590971, guid: ea3493656c229da488819a440c57b92c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
